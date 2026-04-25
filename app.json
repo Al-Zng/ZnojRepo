@@ -13,13 +13,22 @@
       "description": "Anime Land Mod"
     },
     {
-      "name": "App Name 2",
-      "bundleID": "com.developer.app2",
-      "version": "2.1.5",
-      "size": 83886080,
-      "itunes_url": "https://example.com/path/to/app2.ipa",
-      "icon": "https://example.com/path/to/icon2.png",
-      "description": "وصف قصير لمميزات التطبيق الثاني"
+      "name": "Anime Cloud",
+      "bundleID": "com.anime-cloud.znoj",
+      "version": "6.5",
+      "size": 20000,
+      "itunes_url": "https://file.ipaomtk.com/ipa/Anime-Cloud.ipa",
+      "icon": "https://apk.markets/img/uploads/posticon175/2023/09/com.anime.animecloud-175.webp",
+      "description": "Anime Cloud Mod"
+    },
+        {
+      "name": "iBis Paint",
+      "bundleID": "com.ibis-paint.znoj",
+      "version": "9.3",
+      "size": 53000,
+      "itunes_url": "/",
+      "icon": "https://img.utdstc.com/icon/9d0/222/9d02221c09def187370d97e664e2fe7032e9ab73a63fa6b1c92cd7ae24f9a968:200",
+      "description": "Anime Cloud Mod"
     }
   ]
 }
