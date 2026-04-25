@@ -1,34 +1,16 @@
 {
   "name": "Znoj Repo",
   "identifier": "com.znoj.repo",
-  "description": "مستودع تطبيقات IPA المعدلة والاحترافية",
+  "description": "Znoj Store",
   "apps": [
     {
       "name": "Anime Land",
       "bundleID": "com.anime-land.znoj",
       "version": "3.10.0",
-      "size": 300000000,
+      "size": 50000000,
       "itunes_url": "https://file.ipaomtk.com/Anime-Land-Official/Anime-Land-Official-App-ipaomtk.com.ipa",
-      "icon": "https://ipaomtk.com/wp-content/uploads/2026/02/Anime-Land-Official-App.webp",
-      "description": "Anime Land Mod"
-    },
-    {
-      "name": "Anime Cloud",
-      "bundleID": "com.anime-cloud.znoj",
-      "version": "6.5",
-      "size": 200000000,
-      "itunes_url": "https://file.ipaomtk.com/ipa/Anime-Cloud.ipa",
-      "icon": "https://apk.markets/img/uploads/posticon175/2023/09/com.anime.animecloud-175.webp",
-      "description": "Anime Cloud Mod"
-    },
-        {
-      "name": "ibis Paint",
-      "bundleID": "jp.ne.ibis.ibisPaintX",
-      "version": "12.3",
-      "size": 53000000,
-      "itunes_url": "https://github.com/alonzo-v-8/ESign/raw/main/ESign_5.0.2.ipa",
-      "icon": "https://img.utdstc.com/icon/9d0/222/9d02221c09def187370d97e664e2fe7032e9ab73a63fa6b1c92cd7ae24f9a968:200",
-      "description": "ibis Paint X Mod"
+      "icon": "https://ipaomtk.com/wp-content/uploads/2026/02/Anime-Land-Official-App.webp"
     }
   ]
 }
+
