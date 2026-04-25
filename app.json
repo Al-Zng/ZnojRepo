@@ -1,27 +1,33 @@
 {
   "name": "Znoj Repo",
   "identifier": "com.znoj.repo",
-  "description": "مستودع تطبيقات Znoj الاحترافي",
+  "subtitle": "Best IPA Modded Apps",
+  "description": "مستودع تطبيقات Znoj المتوافق مع KSign و ESign",
+  "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Anime-Land-Official-App.webp",
   "apps": [
     {
       "name": "Anime Land",
-      "bundleID": "com.anime-land.znoj",
+      "bundleIdentifier": "com.anime-land.znoj",
+      "developerName": "Znoj",
       "version": "3.10.0",
-      "size": "50 MB",
-      "main_icon": "https://ipaomtk.com/wp-content/uploads/2026/02/Anime-Land-Official-App.webp",
-      "download_url": "https://file.ipaomtk.com/Anime-Land-Official/Anime-Land-Official-App-ipaomtk.com.ipa",
-      "itunes_url": "https://file.ipaomtk.com/Anime-Land-Official/Anime-Land-Official-App-ipaomtk.com.ipa",
-      "description": "مشاهدة الأنمي مجاناً - نسخة معدلة"
+      "versionDate": "2026-04-26",
+      "versionDescription": "Initial Modded Release",
+      "downloadURL": "https://file.ipaomtk.com/Anime-Land-Official/Anime-Land-Official-App-ipaomtk.com.ipa",
+      "localizedDescription": "تطبيق أنمي لاند معدل بالكامل",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Anime-Land-Official-App.webp",
+      "size": 50000000
     },
     {
       "name": "Anime Cloud",
-      "bundleID": "com.anime-cloud.znoj",
+      "bundleIdentifier": "com.anime-cloud.znoj",
+      "developerName": "Znoj",
       "version": "6.5",
-      "size": "45 MB",
-      "main_icon": "https://apk.markets/img/uploads/posticon175/2023/09/com.anime.animecloud-175.webp",
-      "download_url": "https://file.ipaomtk.com/ipa/Anime-Cloud.ipa",
-      "itunes_url": "https://file.ipaomtk.com/ipa/Anime-Cloud.ipa",
-      "description": "تطبيق أنمي كلاود الرسمي - بدون إعلانات"
+      "versionDate": "2026-04-26",
+      "versionDescription": "Stable Update",
+      "downloadURL": "https://file.ipaomtk.com/ipa/Anime-Cloud.ipa",
+      "localizedDescription": "أنمي كلاود بدون إعلانات",
+      "iconURL": "https://apk.markets/img/uploads/posticon175/2023/09/com.anime.animecloud-175.webp",
+      "size": 45000000
     }
   ]
 }
