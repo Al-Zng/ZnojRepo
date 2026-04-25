@@ -1,0 +1,25 @@
+{
+  "name": "Znoj Repo",
+  "identifier": "com.znoj.repo",
+  "description": "مستودع تطبيقات IPA المعدلة والاحترافية",
+  "apps": [
+    {
+      "name": "Anime Land",
+      "bundleID": "com.anime-land.znoj",
+      "version": "3.10.0",
+      "size": 30000,
+      "itunes_url": "https://file.ipaomtk.com/Anime-Land-Official/Anime-Land-Official-App-ipaomtk.com.ipa",
+      "icon": "https://ipaomtk.com/wp-content/uploads/2026/02/Anime-Land-Official-App.webp",
+      "description": "Anime Land Mod"
+    },
+    {
+      "name": "App Name 2",
+      "bundleID": "com.developer.app2",
+      "version": "2.1.5",
+      "size": 83886080,
+      "itunes_url": "https://example.com/path/to/app2.ipa",
+      "icon": "https://example.com/path/to/icon2.png",
+      "description": "وصف قصير لمميزات التطبيق الثاني"
+    }
+  ]
+}
