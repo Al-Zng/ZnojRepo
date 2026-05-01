@@ -37,9 +37,21 @@
       "versionDate": "2026-04-26",
       "versionDescription": "Paid Version",
       "downloadURL": "https://file.ipaomtk.com/ipa/Inspect-Browser.ipa",
-      "localizedDescription": "أنمي كلاود بدون إعلانات",
+      "localizedDescription": "أنسبيكت مدفوع ",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Inspect-Browser.png",
       "size": 2500000
+    },
+      {
+      "name": "GTA Sa HD",
+      "bundleIdentifier": "com.gta-sa.znoj",
+      "developerName": "Znoj",
+      "version": "v1.72",
+      "versionDate": "2026-04-26",
+      "versionDescription": "Paid Version",
+      "downloadURL": "https://file.ipaomtk.com/ipa/GTA-SA-MOD-HD.ipa",
+      "localizedDescription": "جاتا سان اندرياس محسنة",
+      "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Grand-Theft-Auto-San-Andreas-gta-ipa.jpg",
+      "size": 150000000
     }
   ]
 }
